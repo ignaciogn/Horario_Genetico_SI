@@ -72,7 +72,8 @@ public class Max_One_Horarios {
 						TOTAL_ASIGNATURAS_CURSO = Integer.parseInt(value);
 						break;
 					case "Number of hours per subject":
-						// No se utiliza actualmente en el programa
+						// No se utiliza actualmente en el programa, aqui en vez de las horas quiero implementar
+						// hacer dinamico el numero de periodo por asignaturas o por horas
 						break;
 					case "Number of classrooms":
 						TOTAL_AULAS = Integer.parseInt(value);
